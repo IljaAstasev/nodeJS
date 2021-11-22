@@ -12,6 +12,8 @@ Logger.on('message', data => {
     consolge.log(data)
 })
 
-Logger.log('Hello')
-Logger.log('Hello')
-Logger.log('Hello')
+Logger.log('First')
+Logger.log('Second')
+Logger.log('Third')
+
+
